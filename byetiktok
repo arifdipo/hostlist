@@ -4,6 +4,9 @@
 # Curated from sources online.
 # Last updated: 8 April 2021
 
+
+||ttlivecdn.com
+||tiktokcdn-us.com
 ||api-h2.tiktokv.com
 ||api21-h2.tiktokv.com
 ||ns-440.awsdns-55.com
@@ -3643,6 +3646,4 @@
 0.0.0.0 lf.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 lf-hl.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 mon.snssdk.com.xi.zwtianshangm.com
-0.0.0.0 *.ttlivecdn.com
-0.0.0.0 *.tiktokcdn-us.com
-0.0.0.0 *.bytedance.com
+0.0.0.0 bytedance.com
